@@ -1,0 +1,31 @@
+body {
+    background-color: #212529; /* Cor de fundo escura */
+}
+
+.card-item img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.card-item {
+    background-color: #1e1e1e;
+    border: 1px solid #ffcc00;
+    width: 300px;
+}
+
+.modal img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 80vh;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.pagination {
+    margin: 20px 0;
+}
